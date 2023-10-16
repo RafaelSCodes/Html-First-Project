@@ -1,2 +1,2 @@
 # Html-First-Project
-Simple Html project for test purposes.
+First Htmal Personal Project (learning progress).
